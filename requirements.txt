@@ -2,7 +2,7 @@ annotated-types==0.7.0
 anyio==4.6.0
 certifi==2024.8.30
 click==8.1.7
-dnspython
+dnspython==1.16.0
 email_validator==2.2.0
 fastapi==0.115.0
 fastapi-cli==0.0.5
